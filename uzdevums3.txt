@@ -1,0 +1,27 @@
+9. uzdevums: Inventāra analīze
+Mazs interneta veikals uztur savu preču sarakstu. 
+Katra prece tiek attēlota kā objekts ar četrām īpašībām: 
+nosaukums, kategorija, cena un noliktavas_daudzums.
+
+  Izveidojiet testa datus, 
+  lai jūsu izveidotā programma spētu veikt uzdevumu.
+  Ir jāizveido saraksts, 
+  kurā ir vismaz 8 preces no vismaz 3 dažādām kategorijām 
+  (piemēram, "Elektronika", "Apģērbi", "Grāmatas").
+
+  Programmai jāsniedz atbildes uz trim jautājumiem:
+   1. Kuras preces pieder kategorijai "Elektronika"?
+  Izdrukājiet konsolē visas preces, kuru kategorija ir "Elektronika".
+
+   2. Kāda ir kopējā visu preču vērtība noliktavā?
+  Aprēķiniet un izvadiet kopējo vērtību, kas iegūta, 
+  sareizinot katras preces cenu ar tās daudzumu noliktavā 
+  un saskaitot rezultātus.
+
+   3. Kurām precēm tiks piemērota "Izpārdošanas" atlaide?
+  Atlaide tiek piemērota precēm, 
+  kuru noliktavas daudzums ir 5 vai mazāk, un kuras nav kategorijā "Grāmatas".
+  Izdrukājiet konsolē šo preču nosaukumus.
+  Ja atlaide netiek piemērota nevienai precei, 
+  tad izmainiet testa datus, lai būtu vismaz viena prece, 
+  kas atbilst kritērijiem.
