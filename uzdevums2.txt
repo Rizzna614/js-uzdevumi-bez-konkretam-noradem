@@ -1,0 +1,54 @@
+Teātra trupa uztur aktieru sarakstu.
+Katrs aktieris tiek attēlots kā objekts ar piecām īpašībām:
+
+vards
+
+uzvards
+
+loma — teātra lomā (piemēram, “režisors”, “aktieris”)
+
+izradzes — cik izrādēs piedalījies šomēnes
+
+pieredze — cik gadus strādā teātrī
+
+👥 Lomas var būt:
+
+"režisors"
+
+"aktieris"
+
+🧾 Tavi testa dati:
+
+Izveido sarakstu ar 1 režisoru un vismaz 6 aktieriem.
+Katram aizpildi visas īpašības ar reālistiskām vērtībām.
+
+🧩 Programmas uzdevumi
+1️⃣ Kas ir režisors?
+
+Izdrukā pilnu vārdu visiem, kuru loma ir "režisors".
+
+2️⃣ Cik izrāžu kopā notikušas?
+
+Aprēķini kopējo izrāžu skaitu, summējot izradzes visiem dalībniekiem.
+
+3️⃣ Kurš tiks nominēts balvai “Skatuves Zvaigzne”?
+
+Nominācijai jāatbilst visi nosacījumi:
+
+loma ir "aktieris";
+
+izradzes ≥ 8;
+
+pieredze ≥ 3 gadi.
+
+Izdrukā visu atbilstošo aktieru vārdus.
+Ja nevienam tas neatbilst, maini testa datus, lai būtu vismaz viens nominētais.
+
+4️⃣ Kuram ir vislielākā pieredze trupā?
+
+Atrodi un izdrukā aktieri vai režisoru ar vislielāko pieredze vērtību.
+(Izvadē norādi viņa pilnu vārdu un pieredzes gadus.)
+
+5️⃣ Kāda ir vidējā pieredze tikai aktieriem?
+
+Aprēķini un izdrukā vidējo pieredzes gadu skaitu tikai tiem, kuriem loma == "aktieris".
